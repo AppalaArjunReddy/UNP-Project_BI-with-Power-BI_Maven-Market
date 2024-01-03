@@ -1,4 +1,4 @@
-# UNP-project_BI-with-power-BI_-maven-markets
+# UNP-Project_BI-with-Power-BI_Maven-Markets
 
 Completed this project as part of my BI with PowerBI Internship with United Network of Professionals (UNP)
 
